@@ -46,7 +46,15 @@
 
 ## :dart: About ##
 
-Simple chatbot
+Chatbot
+
+## :sparkles: Features ##
+
+:heavy_check_mark: test_de_pry : test use of PRY gem;\
+:heavy_check_mark: app : test use of .env and .gitignore files;\
+:heavy_check_mark: chatbot-glace : request 5 ice cream flavor;\
+:heavy_check_mark: chatbot-cooking : request 1 random cooking recipe;\
+:heavy_check_mark: chatbot-chat : promt any question to chat-gpt;
 
 ## :rocket: Technologies ##
 
