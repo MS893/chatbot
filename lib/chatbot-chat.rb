@@ -20,7 +20,7 @@ loop do
     "prompt" => question,
     "max_tokens" => 10,
     "temperature" => 0.5,
-    "model" => "babbage-002"
+    "model" => "babbage-002"  # autre model possible : davinci-002 ou gpt-3.5-turbo-instruct
   }
   response = HTTP.post(url, headers: headers, body: data.to_json)
   response_body = JSON.parse(response.body.to_s)

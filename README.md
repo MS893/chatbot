@@ -54,7 +54,8 @@ Chatbot
 :heavy_check_mark: app : test use of .env and .gitignore files;\
 :heavy_check_mark: chatbot-glace : request 5 ice cream flavor;\
 :heavy_check_mark: chatbot-cooking : request 1 random cooking recipe;\
-:heavy_check_mark: chatbot-chat : promt any question to chat-gpt;
+:heavy_check_mark: chatbot-chat : promt any question to chat-gpt;\
+:heavy_check_mark: labyrinth: code corrected by Gemini;
 
 ## :rocket: Technologies ##
 
